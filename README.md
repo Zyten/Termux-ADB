@@ -1,8 +1,5 @@
 #Zyten
-Android Debug Bridge version 1.0.41
-Version 33.0.2-8557947
-
-fastboot version 33.0.2-8557947
+Updated to v1.0.41
 
 ### Termux-ADB
 Install ADB &amp; FastBoot Tools in Termux!<br/>
